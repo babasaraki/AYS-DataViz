@@ -1,7 +1,7 @@
 Practical Approach to Data Visualization
 ================
 
-### AYS::webinar series 2020
+### African Young Scientists (AYS)::webinar series 2020
 
 by Umar Ahmad
 
