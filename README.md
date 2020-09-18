@@ -1,5 +1,3 @@
-# AYS-DataViz
-
 Practical Approach to Data Visualization
 ================
 
