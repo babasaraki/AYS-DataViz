@@ -64,11 +64,11 @@ In the unlikely event that there are problems with the conference internet conne
 | 15:00 - 15:30 | *Coffee break*   |
 | 15:30 - 17:00 | Session 4        |
 
-## Instructors
+## Invited speaker 
 
-Amelia McNamara (she/her) is an assistant professor of statistics in the Department of Computer and Information Sciences at the University of St Thomas, in Minnesota. She is an RStudio [Certified Trainor](https://education.rstudio.com/trainers/), as well as a Carpentries [Certified Instructor](https://carpentries.org/instructors/). This is her third year teaching an rstudio::conf workshop. 
+Dr. Umar Ahmad is a PhD student of Genetics (Oncology) with Genetics and Regenerative Medicine Research Centre (GRMCR) of the Universiti Putra Malaysia (UPM) and the Malaysia Genome Institute (MGI). He primarily study cancer genetics and genomics through bioinformatics analyses of next-generation sequence (NGS) data such transcriptome (RNA-Seq) and whole genome (WGS) data. Currently developing Bioconductor package that could be used to extract bladder cancer RNA-Seq data from cancer publicly available repositories. 
 
--   [Umar Ahmad](http://www.bioseqc.com)
+-   [Umar Ahmad](https://github.com/babasaraki)
 -   @[babasaraki1](https://twitter.com/babasaraki1)
 
 
