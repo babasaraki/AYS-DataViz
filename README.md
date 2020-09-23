@@ -1,5 +1,7 @@
-Practical Approach to Data Visualization
+Introduc R in Data Analysis 
 ================
+
+# Data cleaning, Data exploration & Data Visualization
 
 ### African Young Scientists (AYS)::webinar series 2020
 
@@ -54,13 +56,9 @@ In the unlikely event that there are problems with the conference internet conne
 
 | Time          | Activity         |
 | :------------ | :--------------- |
-| 09:00 - 10:30 | Session 1        |
-| 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | Session 2        |
-| 12:00 - 13:30 | *Lunch break* Grand Ballroom   |
-| 13:30 - 15:00 | Session 3        |
-| 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Session 4        |
+| 16:30 - 17:30 | Session 1        |
+| 17:30 - 17:40 | *Short break*   |
+| 17:40 - 18:30 | Session 2        |
 
 ## Invited speaker 
 
@@ -76,8 +74,8 @@ Dr. Umar Ahmad is a PhD student of Genetics (Cancer) with Genetics and Regenerat
 
 We have a fantastic assitants for this webinar! They are:
 
-- Phillips Adeyemi
-- Sadiq Adam
+- Phillips Adeyemi, Ph.D. 
+- Adamu Abubakar Sadeeq, Ph.D.
 
 -----
 
