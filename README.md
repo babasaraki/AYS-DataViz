@@ -1,4 +1,4 @@
-Introduc R in Data Analysis 
+Introduction to use of R in Data Analysis 
 ================
 
 # Data cleaning, Data exploration & Data Visualization
