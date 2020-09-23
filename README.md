@@ -10,7 +10,7 @@ by Umar Ahmad
 -----
 
 :spiral_calendar: September 27 2020  
-:alarm_clock:     09:00 - 17:00  
+:alarm_clock:     16:30 - 18:30 (GMT +1) 
 
 -----
 
