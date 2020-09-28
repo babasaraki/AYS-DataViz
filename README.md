@@ -22,22 +22,18 @@ You will learn the basics of R and data science, and practice using the RStudio 
 
 If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this is the workshop for you! We will have a team of TAs on hand to show you the ropes, and help you out when you get stuck.
 
+## Audience
+ 
+This "Introduction to use of R in Data Analysis" two-hours webinar course is design to provide the participants skill set required to generate intuitive graphics from their laboratory experiments. 
 
 ## Learning objectives
 
-The basics of doing data science in the tidyverse, including data visualization, data transformation and tidying, understanding special data types, and basic modeling.
+At the end of this webinar course, participants should be comfortable with the R environment and be able to perform data science in Base R and Tidyverse that includes data clearning, data exploration and data visualisation and interpret a workflow for their data analysis:
 
-## Is this course for me?
-
-Consider these questions:
-
-1. You have a dataset of prices of diamonds, as well as their size. Could you make a scatterplot of the two variables using ggplot2?
-
-2. You have two datasets, one with information on music genres and age ranges, the other with genres and radio station call names. Can you imagine how you would join them together with a dplyr verb?
-
-3. We want to model the wages of people in the United States, using their height and education as predictors. Then, we would like to plot model predictions for each level of educational attainment. Can you imagine how to do this in R?
-
-If you answered "no" to any/all of those questions... great! This workshop is for you. By the end of the two days, you should be able to accomplish all those tasks. If you answered "yes" to all three questions, you may want to consider taking a different workshop.
+- interact with the R environment
+- import data, explore it and summarise it
+- explore data with graphs
+- perform simple statistical tests
 
 ## Prework
 
