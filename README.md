@@ -16,11 +16,7 @@ by Umar Ahmad
 
 ## Overview
 
-This is short day webinar designed for biomedical scientists who are newbies to R & RStudio. 
-
-You will learn the basics of R and data science, and practice using the RStudio IDE (integrated development environment). We shall discuss much of the material from the book R for Data Science, including data visualization (ggplot2), data transformation and tidying (dplyr, tidyr). Throughout the workshop, we'll work in RMarkdown documents, and learn best practices for data computing.
-
-If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this is the webinar for you! 
+R is a complete, flexible and open source system for statistical analysis and graphics, which has become a tool of choice for biologists and biomedical scientists who need to analyse and visualise their experimental data. This is short day webinar designed for biomedical scientists who are newbies to R & RStudio (an integrated development environment for R). Participants will receive example data sets to practise data clearning, data exploration and data visualisation (ggplot2). If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this is the webinar for you! 
 
 ## Audience
  
@@ -33,7 +29,6 @@ At the end of this webinar course, participants should be comfortable with the R
 - interact with the R environment
 - import data, explore it and summarise it
 - explore data with graphs
-- perform simple statistical tests
 
 ## Prerequisites
 
