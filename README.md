@@ -27,8 +27,8 @@ This "Introduction to use of R in Data Analysis" two-hours webinar course is des
 At the end of this webinar course, participants should be comfortable with the R environment and be able to perform data science in Base R and Tidyverse that includes data clearning, data exploration and data visualisation and interpret a workflow for their data analysis:
 
 - interact with the R environment
-- import data, explore it and summarise it
-- explore data with graphs
+- import data, clean it and summarise it
+- Visualise data by graphics
 
 ## Prerequisites
 
