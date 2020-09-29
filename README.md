@@ -18,9 +18,9 @@ by Umar Ahmad
 
 This is short day webinar designed for biomedical scientists who are newbies to R & RStudio. 
 
-You will learn the basics of R and data science, and practice using the RStudio IDE (integrated development environment). We'll discuss much of the material from the book R for Data Science, including data visualization (ggplot2), data transformation and tidying (dplyr, tidyr), understanding special data types (stringr, forcats, lubridate), and modeling (broom). Throughout the workshop, we'll work in RMarkdown documents, and learn best practices for data computing.
+You will learn the basics of R and data science, and practice using the RStudio IDE (integrated development environment). We shall discuss much of the material from the book R for Data Science, including data visualization (ggplot2), data transformation and tidying (dplyr, tidyr). Throughout the workshop, we'll work in RMarkdown documents, and learn best practices for data computing.
 
-If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this is the workshop for you! We will have a team of TAs on hand to show you the ropes, and help you out when you get stuck.
+If you want to transition from coding in base R to the tidyverse, or just jump into doing data science in the tidyverse without any prior R experience, this is the webinar for you! 
 
 ## Audience
  
@@ -40,6 +40,8 @@ At the end of this webinar course, participants should be comfortable with the R
 _Required Knowledge_
 
 As it is a course for beginners, no background in R or any programming language is required. However, you are encouraged to go through some of the R documentation available [here](https://cran.r-project.org/doc/manuals/r-release/R-intro.html). Please take note that this course is NOT a training on statistics but rather a training on how to use R to visualise data graphically.
+
+_Technical_
 
 If you don't have R installed in your local computer, you can use [RStudio Cloud](https://rstudio.cloud/), a cloud-based version of R and RStudio available through your web browser. So the webinar day, all you need is **a laptop that can access the internet**.  Please do [sign up for an account on RStudio Cloud](https://login.rstudio.cloud/register?redirect=https%3A%2F%2Fclient.login.rstudio.cloud%2Foauth%2Flogin%3Fshow_auth%3D0%26show_login%3D1%26show_setup%3D1) before the webinar. You can make an account directly on RStudio Cloud, or use single-sign-on with a service like GitHub or Google. 
 
