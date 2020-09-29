@@ -35,17 +35,21 @@ At the end of this webinar course, participants should be comfortable with the R
 - explore data with graphs
 - perform simple statistical tests
 
-## Prework
+## Prerequisites
 
-You'll be using [RStudio Cloud](https://rstudio.cloud/), a cloud-based version of R and RStudio available through your web browser.  So (all going well) on the day of the workshop all you'll need is **a laptop that can access the internet** (wifi will be available).  Please do [sign up for an account on RStudio Cloud](https://client.login.rstudio.cloud/oauth/register?redirect=https%3A%2F%2Fclient.login.rstudio.cloud%2Foauth%2Flogin%3Fshow_auth%3D0%26show_login%3D1%26show_setup%3D1) before the workshop. You can make an account directly on RStudio Cloud, or use single-sign-on with a service like GitHub or Google. 
+_Required Knowledge_
 
-In the unlikely event that there are problems with the conference internet connection, you may want to have a local installation on your computer as a backup. If you'd like, install the following:
+As it is a course for beginners, no background in R or any programming language is required. However, you are encouraged to go through some of the R documentation available [here](https://cran.r-project.org/doc/manuals/r-release/R-intro.html). Please take note that this course is NOT a training on statistics but rather a training on how to use R to visualise data graphically.
+
+If you don't have R installed in your local computer, you can use [RStudio Cloud](https://rstudio.cloud/), a cloud-based version of R and RStudio available through your web browser. So the webinar day, all you need is **a laptop that can access the internet**.  Please do [sign up for an account on RStudio Cloud](https://login.rstudio.cloud/register?redirect=https%3A%2F%2Fclient.login.rstudio.cloud%2Foauth%2Flogin%3Fshow_auth%3D0%26show_login%3D1%26show_setup%3D1) before the webinar. You can make an account directly on RStudio Cloud, or use single-sign-on with a service like GitHub or Google. 
+
+Or You can alternatively have a local R and RStudio IDE installation on your computer as backup in case you might not have access to the internet during the session. We recommend that you install the following:
  
-1. A recent version of R (~3.6), which is available for free at [cran.r-project.org](http://www.cran.r-project.org)
-2. A recent version of RStudio IDE (~1.2.5033), available for free at [www.rstudio.com/download](http://www.rstudio.com/download)
+1. A recent version of R (~4.0.2), which is available for free at [cran.r-project.org](https://www.r-project.org)
+2. A recent version of RStudio IDE (~1.3.1093), available for free at [www.rstudio.com/download](https://rstudio.com/products/rstudio/download/#download)
 3. The set of relevant R packages, which you can install by connecting to the internet, opening RStudio, and running:  
  
-    install.packages(c("babynames", "fivethirtyeight", "formatR", "gapminder", "hexbin", "mgcv", "maps", "mapproj", "nycflights13", "rmarkdown", "skimr", "tidyverse", "viridis")) 
+    install.packages(c("rmarkdown", "skimr", "tidyverse")) 
 
 
 ## Schedule
