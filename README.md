@@ -59,7 +59,7 @@ Or You can alternatively have a local R and RStudio IDE installation on your com
 
 ## Invited speaker 
 
-Dr. Umar Ahmad is a PhD student of Genetics (Cancer) with Genetics and Regenerative Medicine Research Centre (GRMCR) of the Universiti Putra Malaysia (UPM) and the Malaysia Genome Institute (MGI). His work in basic and translational research is focused on developing targeted therapy for human bladder cancer with primarily focused on cancer genomics and transcriptomics through bioinformatics analyses of next-generation sequence (NGS) data such as transcriptome (RNA-Seq) and whole genome sequencing (WGS) data. He is currently developing a R/Bioconductor package that could be used to extract bladder cancer RNA-Seq data from cancer publicly available repositories.
+Dr. Umar Ahmad is a PhD student of Genetics (Cancer) with Genetics and Regenerative Medicine Research Centre (GRMCR) of the Universiti Putra Malaysia (UPM) and the Malaysia Genome Institute (MGI). His work in basic and translational research is focused on developing targeted therapy for human bladder cancer with primary focused on cancer genomics and transcriptomics through bioinformatics analyses of next-generation sequence (NGS) data such as transcriptome (RNA-Seq) and whole genome sequencing (WGS) data. He is currently developing a R/Bioconductor package that could be used to extract bladder cancer RNA-Seq data from publicly available repositories.
 
 
 
